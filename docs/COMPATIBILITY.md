@@ -2,7 +2,7 @@
 
 ## Current target
 
-AeroTurbine v0.1.0 is compiled for Redmi Watch 4: 390 × 450 pixels, FPRJ device type 365. Its latest design has passed local asset/layout checks and the Mi Create compiler. Physical-watch validation of this exact release remains pending.
+AeroTurbine v0.1.0 is compiled for Redmi Watch 4: 390 × 450 pixels, FPRJ device type 365. Its latest design has passed local asset/layout checks and the Mi Create compiler. On 2026-10-09, the author reported that the latest revision works on the physical Redmi Watch 4. Firmware and companion-app versions were not recorded; this confirms basic operation, not an exhaustive weather-state or firmware test matrix.
 
 The project keeps live source identifiers for hours (`0811`), minutes (`1011`), weekday (`2012`), day (`1812`), month (`1012`), steps (`0821`), battery (`0841`), Celsius temperature (`2031`) and weather condition (`3031`). Identifiers must be checked against the target device's editor definition when porting.
 

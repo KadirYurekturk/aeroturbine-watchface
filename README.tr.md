@@ -37,7 +37,7 @@ Mi Band 8/9'un 192 × 490, Band 8 Pro/9 Pro'nun 336 × 480 ekranına aynı dosya
 
 Bu repo telefon uygulaması dağıtmaz. Menü adları uygulama sürümüne göre değişebilir.
 
-**İlk yayın ön sürümdür:** proje ve derleme kontrolleri geçti; en son simge ve çizgi düzeltmeleri fiziksel saatte henüz doğrulanmadı. Daha önceki tasarım sürümleri geliştiricinin Redmi Watch 4'ünde başarıyla yüklendi.
+**Saatte çalıştığı doğrulandı:** geliştirici 2026-10-09 tarihinde en son sürümü fiziksel Redmi Watch 4'ünde deneyip çalıştığını bildirdi. Proje ve derleme kontrolleri de geçti; v0.1.0 artık ön sürüm olarak işaretlenmiyor. Bu bildirim, o cihazdaki temel çalışmayı doğrular; tüm hava durumlarının veya firmware sürümlerinin ayrı ayrı test edildiği anlamına gelmez.
 
 ## Mi Create ile düzenleme
 

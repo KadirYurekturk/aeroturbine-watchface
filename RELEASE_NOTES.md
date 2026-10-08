@@ -1,6 +1,6 @@
 ## AeroTurbine v0.1.0
 
-Initial public preview for **Redmi Watch 4 only (390 × 450)**.
+Initial public release for **Redmi Watch 4 only (390 × 450)**.
 
 - Bright metallic fan illustration and large weather-colored digital time.
 - Live Turkish weekday/date, airplane steps indicator and rocket battery indicator.
@@ -17,6 +17,8 @@ Initial public preview for **Redmi Watch 4 only (390 × 450)**.
 
 Project/device/source checks, image integrity, canvas bounds, alignment and weather color validation passed. Rebuilding the project assets and compiling with Mi Create's RedmiWatch4 compiler succeeded.
 
-This exact artwork revision still needs physical-watch validation; this is a **pre-release**. Earlier iterations were installed successfully on the author's Redmi Watch 4. Weather relies on companion-app synchronization. No Mi Band builds, AOD layout or animated fan are included.
+On **2026-10-09**, the author confirmed that the latest revision works on the physical Redmi Watch 4. The pre-release flag has been removed. This is a basic operation report, not exhaustive coverage of every weather state or firmware version. Weather relies on companion-app synchronization. No Mi Band builds, AOD layout or animated fan are included.
+
+The installation binary is unchanged; documentation and the editable ZIP were updated with the test result.
 
 Mi Band and other devices require separate layouts, device settings and compilation. Read the repository's compatibility guide before creating a port.

@@ -27,7 +27,7 @@ The icons are visual labels: the airplane does not show flight data, and the roc
 
 | Device | Ready-to-install build | Notes |
 | --- | --- | --- |
-| Redmi Watch 4 | Yes, initial preview release | Compiler and project checks passed; latest artwork revision still needs on-watch validation |
+| Redmi Watch 4 | Yes, v0.1.0 | Compiler/project checks passed; author confirmed it works on the physical watch on 2026-10-09 |
 | Xiaomi / Mi Band 8 or 9 | No | A separate 192 × 490 layout and device-specific build are needed |
 | Xiaomi Band 8 Pro or 9 Pro | No | A separate 336 × 480 layout and device-specific build are needed |
 | Other watches and bands | No | Check editor support, canvas dimensions and live data sources before porting |
@@ -41,7 +41,7 @@ An editor supporting several devices does not make one compiled watchface univer
 3. In your compatible Notify app, open **Update watchface / Saat yüzünü güncelle**, choose the local `.bin`, confirm the device, and follow the app's transfer instructions.
 4. For weather, enable weather synchronization in the companion app and allow a sync to finish.
 
-Menu wording varies by app version. This repository distributes a watchface, not Notify or Mi Fitness. The initial release is marked **pre-release** because the newest icon and overlay changes have not yet been verified on the physical watch. Earlier iterations of this project were installed successfully on the author's Redmi Watch 4.
+Menu wording varies by app version. This repository distributes a watchface, not Notify or Mi Fitness. On **2026-10-09**, the author confirmed that the latest revision installs and works on the physical Redmi Watch 4; v0.1.0 is therefore no longer marked as a pre-release. This report confirms basic operation on that device, not every weather state or firmware version.
 
 ## Edit in Mi Create
 

@@ -1,2 +1,2 @@
 15dc0f7032ccecef1eefc075572eb378ce6011978dfad820271e15fae27330aa  AeroTurbine-RedmiWatch4-v0.1.0.bin
-8720f1ad56ff2b2e475d2cb9dea5dd6d075a2dc737376f1582df558eaa687327  AeroTurbine-RedmiWatch4-v0.1.0-editable.zip
+bc9a189eddf81b03d6d0181757ee2c137d9e71a5c760f39e5b0d5df132c83d2b  AeroTurbine-RedmiWatch4-v0.1.0-editable.zip
